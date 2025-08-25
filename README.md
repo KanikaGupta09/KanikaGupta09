@@ -76,9 +76,9 @@ pleasure. In any case, I document it ; I don't just put it in there."**
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=RithikTripathi">
+    <img src="https://komarev.com/ghpvc/?username=KanikaGupta09">
 </a>
-<a href="https://github.com/RithikTripathi?tab=followers"><img src="https://img.shields.io/github/followers/RithikTripathi?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/KanikaGupta09?tab=followers"><img src="https://img.shields.io/github/followers/KanikaGupta09?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## 💰 No act of support, no matter how small, is ever wasted.
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/RithikTripathi) 
