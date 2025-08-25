@@ -1,3 +1,4 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/B33QuPR.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kanika Gupta</h1>
 <h3 align="center">I'm a passionate Data Sciences Practitioner from India.</h3>
@@ -29,8 +30,6 @@ pleasure. In any case, I document it ; I don't just put it in there."**
     <a href="https://numpy.org/" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/465-4651848_numpy-python-logo-hd-png-download.png"/ width="85" height="45"> </a>
     <a href="https://matplotlib.org/_static/images/logo2.svg" target="_blank"> <img src="https://user-images.githubusercontent.com/63400981/205504071-4361d0d8-60f3-412e-a8c3-9119ba6290e2.png"/ width="85" height="45"> </a>
     <a href="https://en.wikipedia.org/wiki/Microsoft_Excel" target="_blank"> <img src="https://static.vecteezy.com/system/resources/previews/004/532/190/original/illustration-of-microsoft-word-excel-power-point-mobile-app-logos-free-vector.jpg"/ width="85" height="45"></a>
-    <a href="https://datastudio.google.com/overview" target="_blank"> <img src="https://cxl.com/wp-content/uploads/2019/07/google-data-studio-logo.png"/ width="85" height="45"></a>
-    <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://pei.com/wp-content/uploads/2016/08/maxresdefaultreduced.jpg"/ width="70" height="45"></a>
      <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank"> <img src="https://user-images.githubusercontent.com/63400981/205504026-92b1317a-f35a-4d99-a015-820d194eb193.png"/ width="70" height="45"></a>
     <a href="https://jupyter.org/" target="_blank"> <img src="https://cs3mesh4eosc.eu/sites/default/files/2022-08/1%20nQwgbHSXyLBfZht24QZLug_0.png"/ width="85" height="45"></a>
     <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://miro.medium.com/max/1400/1*TIR2i_upIZM0Enq86995Mg.jpeg"/ width="85" height="45"></a>
@@ -46,9 +45,7 @@ pleasure. In any case, I document it ; I don't just put it in there."**
 <br/>
 
 <p align="center">
-    <a href="https://github.com/RithikTripathi/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RithikTripathi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+
 </p>
 
 ## 📊 My Github Stats
@@ -63,7 +60,6 @@ pleasure. In any case, I document it ; I don't just put it in there."**
 <br/>
 <br/>
 
-<a href="https://github.com/RithikTripathi/github-readme-activity-graph"><img alt="Rithik  Tripathi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RithikTripathi&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -76,10 +72,7 @@ pleasure. In any case, I document it ; I don't just put it in there."**
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/rithik-tripathi-data-scientist/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/tripathi_rithik"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/rithik_tripathi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://medium.com/@rithik.tripathi9"><img src="https://img.icons8.com/external-itim2101-blue-itim2101/40/000000/external-blog-copywriting-itim2101-blue-itim2101.png"/></a>
+<a href = "https://www.linkedin.com/in/kanika-gupta-522a782a6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
