@@ -49,8 +49,8 @@ pleasure. In any case, I document it ; I don't just put it in there."**
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/RithikTripathi/github-readme-stats"><img alt="Rithik Tripathi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RithikTripathi&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/RithikTripathi/github-readme-stats"><img alt="Rithik Tripathi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RithikTripathi&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/KanikaGupta09/github-readme-stats"><img alt="Kanika Gupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KanikaGupta09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/KanikaGupta09/github-readme-stats"><img alt="Kanika Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanikaGupta09&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
