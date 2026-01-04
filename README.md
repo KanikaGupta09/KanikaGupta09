@@ -46,23 +46,6 @@ pleasure. In any case, I document it ; I don't just put it in there."**
 
 </p>
 
-<h2>📊 My GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KanikaGupta09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanikaGupta09&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <i>Top languages is only a metric of public code and doesn't reflect experience or skill level.</i>
-</p>
-
-
-
-
-
-<br/>
-<br/>
 
 
 <br/>
