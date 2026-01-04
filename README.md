@@ -46,14 +46,16 @@ pleasure. In any case, I document it ; I don't just put it in there."**
 
 </p>
 
-## 📊 My Github Stats
+## 📊 My GitHub Stats
 
-  <br/>
-   ![Kanika Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KanikaGupta09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+![Kanika Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KanikaGupta09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KanikaGupta09&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+## 💻 Top Languages
 
-**Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KanikaGupta09&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+
+> **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 
 
