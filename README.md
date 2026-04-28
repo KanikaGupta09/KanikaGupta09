@@ -32,7 +32,7 @@ pleasure. In any case, I document it ; I don't just put it in there."**
     <a href="https://jupyter.org/" target="_blank"> <img src="https://cs3mesh4eosc.eu/sites/default/files/2022-08/1%20nQwgbHSXyLBfZht24QZLug_0.png"/ width="85" height="45"></a>
     <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://miro.medium.com/max/1400/1*TIR2i_upIZM0Enq86995Mg.jpeg"/ width="85" height="45"></a>
 <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank"> <img src="https://img.icons8.com/nolan/46/line-chart.png"/> </a>
-<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> <img src="https://img.icons8.com/nolan/64/mind-map.png"/ width="55" height="45"></a>
+<a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> <img src="https://img.icons8.com/nolan/64/mind-map.png"/ width="55" height="44"></a>
 
     
 
